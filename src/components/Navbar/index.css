@@ -1,0 +1,29 @@
+.navbarBg {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.bgDark {
+  background-color: #333;
+}
+
+.bgLight {
+  background-color: #fff;
+}
+
+.navbar-logo {
+  width: 50px;
+}
+
+.navbar-theme-icon {
+  width: 30px;
+  cursor: pointer;
+}
+
+.navbar-links {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}

@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.bgDark1 {
+  background-color: #000000;
+}
+
+.bgLight1 {
+  background-color: #fff;
+}
+.textLight {
+  color: white;
+}
+.textDark{
+  color:black;
+}
